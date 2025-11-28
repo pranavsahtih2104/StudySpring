@@ -1,4 +1,4 @@
-#StudySprint — AI-Powered Study Planner
+StudySprint — AI-Powered Study Planner
 
 A modern responsive landing page built with Next.js, Tailwind CSS, and Vercel v0.
 Designed as part of a frontend evaluation assignment to demonstrate UI development, responsive layout, component structure, and integration of Vercel AI-powered UI generation tools.
